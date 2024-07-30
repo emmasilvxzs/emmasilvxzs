@@ -2,7 +2,7 @@
 
 __Hello my name is Emanuelly 🍒__
 
-- 😄 Pronouns: She/her
+- 💌 Pronouns: She/her
 - 🌱 Estou studing no Alura
 - 💻 Estou me desenvolvendo na linguagem JavaScript
 - 💬 Ask me about: Volleyball, Olympics, Sports, Books, School, Music, Haikyuu
